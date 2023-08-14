@@ -1,0 +1,21 @@
+{
+    "name": "topadslk",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "app.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psstumlakia/topadslk-live.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psstumlakia/topadslk-liveissues"
+    },
+    "homepage": "https://github.com/psstumlakia/topadslk-live#readme"
+}
